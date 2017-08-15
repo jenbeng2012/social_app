@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'rails_12factor'
 gem 'travis', '~> 1.8', '>= 1.8.8'
-gem 'omniauth'
+gem 'devise'
 gem 'omniauth-facebook'
 
 group :development, :test do
